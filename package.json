@@ -1,0 +1,9 @@
+{
+  "name": "reagent-electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "electron-packager": "^9.1.0"
+  }
+}
